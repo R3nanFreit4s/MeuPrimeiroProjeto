@@ -3,9 +3,5 @@
 ### RENAN LEME DE FREITAS
 
 ------
-
 Pulando linha
-
-***
-ola
-***
+------
